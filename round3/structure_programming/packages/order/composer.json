@@ -1,0 +1,16 @@
+{
+    "name": "phubui/order",
+    "authors": [
+        {
+            "name": "phubui",
+            "email": "phubui@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Order\\": "src/"
+        }
+    },
+    "require": {}
+}

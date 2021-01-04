@@ -1,0 +1,2 @@
+fix_connect_db:
+https://medium.com/@mayomi1/how-to-fix-error-1045-28000-access-denied-for-user-root-localhost-using-password-yes-on-854294790970

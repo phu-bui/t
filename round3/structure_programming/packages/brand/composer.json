@@ -1,0 +1,16 @@
+{
+    "name": "phubui/brand",
+    "authors": [
+        {
+            "name": "phubui",
+            "email": "phubui@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Brand\\": "src/"
+        }
+    },
+    "require": {}
+}
